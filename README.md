@@ -8,7 +8,7 @@
 
 ### Ferramentas
 
-- Pyton
+- Python
 - Editor da sua preferência
 
 ### Resutados
